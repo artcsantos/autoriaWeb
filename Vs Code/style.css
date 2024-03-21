@@ -1,0 +1,16 @@
+body{
+    background: rgb(0,242,247);
+    background: linear-gradient(90deg, rgba(0,242,247,1) 17%, rgba(23,154,222,1) 47%, rgba(172,15,228,1) 100%);
+    background-size: 100%;
+    display: flex;
+}
+
+.parte{
+    margin-left: 80px;
+    margin-top: 300px;
+    align-items: center;
+}
+
+.linkvolta{
+    margin-top: 50px;
+}
